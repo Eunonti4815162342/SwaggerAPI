@@ -29,8 +29,6 @@ public class SwaggerConfig {
 Endpoints donde veremos la documentación que ha generado Swagger de forma automática de nuestra API.
 
 * http://localhost:8080/
-* http://localhost:80080/profile		: información en formato JSON de las URL de la api
-* http://localhost:80080/profile/videos : información extendida de la API
 * http://localhost:8080/swagger-resources/configuration/ui
 * http://localhost:8080/swagger-ui.html
 
